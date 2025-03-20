@@ -1,4 +1,4 @@
-# A novel robust multi-objective evolutionary optimization algorithm based on surviving rate (RMOEA-SuR)
+# RMOEA-SuR
 
 This repository provides implementations for the paper:"A novel robust multi-objective evolutionary optimization algorithm based on surviving rate"
 
